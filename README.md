@@ -11,3 +11,6 @@ FRO_func_seg.mat, OCC_func_seg.mat, Base_func_seg.mat saved the functional conne
 bi_TS.mat saved the concatenated binary time series from Baseline, postFRO and postOCC.  
 minimum_path_cost.mat saved minimum path and cost. 
 Mean_Base_dym.mat postFROdym.mat postOCCdym.mat saved all the results from energy landscape analysis. 
+# other functions
+permutation_htest2_np.m was cited to do statistic analysis between two groups using permutation t-test.
+Violin.m and violinplot.m were cited to made violin plot. 
